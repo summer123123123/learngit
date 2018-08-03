@@ -1,2 +1,3 @@
 Git is not free software.
 Git is free software under the GPL.
+Git tracks changes.
